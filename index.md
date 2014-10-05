@@ -9,7 +9,7 @@ Seguir uma dieta para tratar o problema de obesidade é difícil, exige esforço
 Não obstante, algumas destas dietas são desequilibradas e, continuando-se por período prolongado de tempo, podem trazer graves prejuízos à saúde.
 
 <span class="latest-article">Últimos artigos sobre a perda de peso</span>
-<ul class="index">
+<ul class="index" markdown="1">
   {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%-d/%m/%Y" }}</span></li>
   {% endfor %}
