@@ -4,9 +4,9 @@ title: Dieta macrobiótica
 permalink: /dietas-para-perder-peso/dieta-macrobiotica.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Esta dieta combina de forma estrita a alimentação vegetariana com as ideias derivadas da filosofia zen-budista.
+## Esta dieta combina de forma estrita a alimentação vegetariana com as ideias derivadas da filosofia zen-budista.
 
 No mundo ocidental, os seus mentores afirmam que realizando este tipo de dieta se controla o peso e, além disso, não se sofre tipo algum de distúrbio. Fundam-se todas estas hipóteses na filosofia de Yin e do Yang.
 

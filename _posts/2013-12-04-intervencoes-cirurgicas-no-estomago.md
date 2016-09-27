@@ -4,9 +4,9 @@ title: Intervenções cirúrgicas no estômago
 permalink: /outros-tratamentos/intervencoes-cirurgicas-no-estomago.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Durante esta última década, efectuaram-se intervenções cirúrgicas mais agressivas e de maior envergadura com o fim de obter uma redução de peso nos pacientes obesos.
+## Durante esta última década, efectuaram-se intervenções cirúrgicas mais agressivas e de maior envergadura com o fim de obter uma redução de peso nos pacientes obesos.
 
 Uma destas técnicas consiste em reduzir o tamanho do estômago, de forma que a pessoa obesa se sinta saciada ingerindo pouca quantidade de alimentos. A redução do tamanho do estômago pode obter-se de vários modos: a forma mais fácil e menos pungente consegue-se sem necessidade de cortar nem suturar o estômago, com a mera colocação de uma pinça exterior que rodeia este órgão e o deixa convertido em duas pequenas bolsas. Os obesos emagrecem porque necessitam menor quantidade de comida para receberem a sensação de plenitude gástrica.
 

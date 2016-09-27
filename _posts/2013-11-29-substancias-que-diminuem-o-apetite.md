@@ -4,15 +4,15 @@ title: Substâncias que diminuem o apetite
 permalink: /outros-tratamentos/substancias-que-diminuem-o-apetite.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os medicamentos para perder peso
+## Os medicamentos para perder peso
 
 A possibilidade de tratar a obesidade com uma substância que consiga a perda de peso é até agora um desejo impossível e inalcançado. Não existe nenhum fármaco milagroso que por si só alcance apreciáveis perdas de peso.
 
 Em seguida, descreveremos algumas das substâncias utilizadas no tratamento da obesidade.
 
-##Substâncias que diminuem o apetite
+## Substâncias que diminuem o apetite
 
 São fármacos muito desprestigiados por conterem algumas anfetaminas ou seus derivados, com efeitos indesejáveis importantes e desagradáveis como insónia, tremuras, dor de cabeça, secura na boca, hipertensão, palpitações, etc, tornando os inconvenientes superiores às supostas vantagens teóricas do seu uso. Se a tudo isto acrescentarmos que na maioria dos casos foram utilizados de forma indiscriminada e sem controlo médico — o que provocou acidentes graves —, não é de estranhar que muitos destes medicamentos tenham sido retirados do mercado. Assim, pois, em Espanha como em muitos outros países, as anfetaminas e os seus derivados mais próximos não se podem utilizar como anorexígenos (substâncias para tirar o apetite).
 

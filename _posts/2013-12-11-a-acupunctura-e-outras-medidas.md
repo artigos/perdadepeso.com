@@ -4,9 +4,9 @@ title: A acupunctura e outras medidas
 permalink: /outros-tratamentos/a-acupunctura-e-outras-medidas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A acupunctura é uma técnica auxiliar da medicina procedente das primitivas medicinas orientais.
+## A acupunctura é uma técnica auxiliar da medicina procedente das primitivas medicinas orientais.
 
 No Ocidente foi introduzida parcialmente com o fim de tratar algumas enfermidades (doenças reumáticas, anestesias e muitas outras).
 

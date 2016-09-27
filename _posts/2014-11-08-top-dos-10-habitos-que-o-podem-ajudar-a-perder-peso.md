@@ -3,7 +3,7 @@ layout: default
 title: Top dos 10 hábitos que o podem ajudar a perder peso
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O controlo de peso é baseado em pequenas mudanças com as quais possa viver para sempre. À medida que integra estes pequenos ajustes no seu estilo de vida, vai começar a ver como eles se podem traduzir na redução de calorias e perda de peso. Aqui estão os meus 10 melhores hábitos para o ajudar a transformar o seu sonho de perda de peso em realidade:
  

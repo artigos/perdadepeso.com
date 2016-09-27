@@ -4,9 +4,9 @@ title: Lipossucção
 permalink: /outros-tratamentos/lipossuccao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Consiste esta técnica em aspirar o excesso de gordura acumulado em determinadas zonas do corpo com o fim de o eliminar.
+## Consiste esta técnica em aspirar o excesso de gordura acumulado em determinadas zonas do corpo com o fim de o eliminar.
 
 A zona em que mais habitualmente se realiza a lipossucção é a das coxas. Este método efectua-se mediante a introdução de agulhas de grosso calibre no tecido celular subcutâneo (espaço situado imediatamente debaixo da pele e onde se acumula grande quantidade de gordura), para proceder à aspiração do excesso do tecido adiposo ou gordo.
 

@@ -4,9 +4,9 @@ title: Dieta da Clínica Mayo
 permalink: /dietas-para-perder-peso/dieta-da-clinica-mayo.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Esclareçamos, antes do mais, que esta dieta não tem relação alguma com a célebre clínica Mayo dos Estados Unidos.
+## Esclareçamos, antes do mais, que esta dieta não tem relação alguma com a célebre clínica Mayo dos Estados Unidos.
 
 É muito desequilibrada, exclui todos os produtos lácteos e consome grande quantidade de ovos diariamente; por isso fornece muito poucas proteínas.
 

@@ -4,9 +4,9 @@ title: Diuréticos
 permalink: /outros-tratamentos/diureticos.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As intervenções cirúrgicas como tratamento alternativo de obesidade aplicam-se desde há aproximadamente vinte e cinco anos.
+## As intervenções cirúrgicas como tratamento alternativo de obesidade aplicam-se desde há aproximadamente vinte e cinco anos.
 
 Atualmente aumentaram as possibilidades deste tipo de tratamento com a introdução de uma ampla gama de possibilidades cirúrgicas.
 

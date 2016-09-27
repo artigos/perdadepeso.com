@@ -4,9 +4,9 @@ title: O exercício físico
 permalink: /outros-tratamentos/o-exercicio-fisico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Não há dúvida que a prática de exercício físico aumenta o consumo calórico do corpo humano, especialmente se for suficientemente intenso e prolongado.
+## Não há dúvida que a prática de exercício físico aumenta o consumo calórico do corpo humano, especialmente se for suficientemente intenso e prolongado.
 
 É sabido que as contracções musculares próprias dos movimentos queimam, por assim dizer, as reservas de glicose e de gordura que o organismo possui, o que evidentemente produz uma diminuição destas.
 De qualquer maneira, há pessoas com excesso de peso costumando levar uma vida eminentemente sedentária e não praticando nenhum tipo de desporto ou de exercício físico intenso, que realmente aumentam o consumo calórico do organismo.

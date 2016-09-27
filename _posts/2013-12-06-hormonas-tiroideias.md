@@ -4,9 +4,9 @@ title: Hormonas tiroideias
 permalink: /outros-tratamentos/hormonas-tiroideias.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As hormonas tiroideias são substâncias originando-se nas glândulas tiróides (glândulas de secreção interna situada diante da laringe) e exercendo a sua acção fisiológica em quase todos os tecidos e órgãos do corpo humano.
+## As hormonas tiroideias são substâncias originando-se nas glândulas tiróides (glândulas de secreção interna situada diante da laringe) e exercendo a sua acção fisiológica em quase todos os tecidos e órgãos do corpo humano.
 
 Tais hormonas foram introduzidas no tratamento da obesidade em 1893 e passaram por épocas tanto de descrédito como de aceitação. A ideia surgiu do facto de estas hormonas produzirem um aumento do metabolismo corpóreo, provocando um incremento do gasto de energia, ou seja, um aumento de produção do calor e, consequentemente, uma perda de peso. Contudo, em contrapartida, produzem uma série de efeitos nocivos: aumentam o funcionamento da glândula tiróide, provocando uma tirotoxicose, caracterizando-se por taquicardia, diarreia, tremuras, transtornos visuais e nervosismo. Finalmente, pode levar a uma doença chamada hipertiroidismo, quer dizer, excesso de secreção da hormona tiroideia.
 

@@ -4,9 +4,9 @@ title: Dieta do doutor Atkins
 permalink: /dietas-para-perder-peso/dieta-do-doutor-atkins.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Esta dieta gozou de grande popularidade desde que o médico norte-americano Robert C. Atkins publicou, em 1972, as suas teorias, num livro de grande difusão.
+## Esta dieta gozou de grande popularidade desde que o médico norte-americano Robert C. Atkins publicou, em 1972, as suas teorias, num livro de grande difusão.
 
 Tem como precursor a chamada dieta Banting. A história desta dieta começou em 1860 quando alguém sugeriu a William Banting — pesando 92 quilos e incapaz de perder peso — que se abstivesse de ingerir leite, manteiga, açúcar e batatas e unicamente consumisse carne e peixe. Perdeu assim 22 quilos.
 

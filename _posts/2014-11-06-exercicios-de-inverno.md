@@ -3,7 +3,7 @@ layout: default
 title: Exercícios de inverno
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O Inverno é uma altura do ano em que normalmente as pessoas fazem menos exercício, quer seja pelo fato de o frio as não incentivar tanto ou por qualquer outro motivo. Contudo, é essencial continuar a se exercitar durante estes meses mais frios para que não perca a forma que adquiriu durante o verão quer seja pela sua própria saúde. Abaixo seguem algumas dicas de formas de exercício durante o Inverno.
 

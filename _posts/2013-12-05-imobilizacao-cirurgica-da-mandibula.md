@@ -4,9 +4,9 @@ title: Imobilização cirúrgica da mandíbula
 permalink: /outros-tratamentos/imobilizacao-cirurgica-da-mandibula.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Em determinados casos apresentam alguns pacientes uns impulsos incontrolados levando-os a consumir alimentos pouco apropriados à manutenção de nova dieta de emagrecimento adequada.
+## Em determinados casos apresentam alguns pacientes uns impulsos incontrolados levando-os a consumir alimentos pouco apropriados à manutenção de nova dieta de emagrecimento adequada.
 
 Motivou isto a aplicação de uma técnica cirúrgica simples e barata consistindo na imobilização do maxilar inferior. Para a levar a cabo colocam-se uns ganchos entre os dentes superiores e inferiores obrigando a manter constantemente a boca fechada. Enquanto dura a imobilização da mandíbula é administrada uma dieta líquida contendo entre 800 e 1000 calorias diárias, com abundantes vitaminas, ferro e outros sais minerais.
 

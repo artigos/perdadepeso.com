@@ -4,9 +4,9 @@ title: A dieta da criança obesa
 permalink: /outros-artigos/a-dieta-da-crianca-obesa.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Controlar a obesidade de uma criança não é tarefa fácil.
+## Controlar a obesidade de uma criança não é tarefa fácil.
 
 Por um lado, existem as suas necessidades nutritivas, tão importantes para o desenvolvimento e, por outro lado, a sua psicologia, fazendo aceitar com certa dificuldade a disciplina de uma dieta de emagrecimento.
 

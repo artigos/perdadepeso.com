@@ -4,9 +4,9 @@ title: Dieta "separada" ou "dissociada" de Hay
 permalink: /dietas-para-perder-peso/dieta-separada-ou-dissociada-de-hay.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Esta dieta recomenda o consumo de proteínas e de hidratos de carbono em separado.
+## Esta dieta recomenda o consumo de proteínas e de hidratos de carbono em separado.
 
 Baseia-se na hipótese de as proteínas necessitarem para a sua digestão um meio ácido, enquanto os hidratos de carbono requerem um meio alcalino.
 

@@ -4,9 +4,9 @@ title: Dietas fantasiosas
 permalink: /dietas-para-perder-peso/dietas-fantasiosas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Estas dietas são geralmente de carácter popular e correm de mão em mão, sem qualquer fundamento nutricional nem científico; momentaneamente podem ser eficazes e por tal motivo podem obter um certo êxito.
+## Estas dietas são geralmente de carácter popular e correm de mão em mão, sem qualquer fundamento nutricional nem científico; momentaneamente podem ser eficazes e por tal motivo podem obter um certo êxito.
 
 A causa da perda de peso de tais regimes deve-se a serem compostos por muito poucos alimentos e, portanto, poucas calorias, sendo este o motivo da diminuição do peso.
 

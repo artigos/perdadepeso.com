@@ -4,9 +4,9 @@ title: Os alimentos «light»
 permalink: /dietas-para-perder-peso/os-alimentos-«light».html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##São alimentos com menor poder calórico que os seus análogos normais.
+## São alimentos com menor poder calórico que os seus análogos normais.
 
 Alguns não contêm nenhuma caloria e, por conseguinte, podem ser consumidos pelas pessoas seguindo uma dieta de emagrecimento: por exemplo, as colas light.
 

@@ -4,9 +4,9 @@ title: Regime hiperproteico de Linn
 permalink: /dietas-para-perder-peso/regime-hiperproteico-de-linn.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Dietas de emagrecimento atípicas
+## Dietas de emagrecimento atípicas
 
 Seguir uma dieta para tratar o problema de obesidade é difícil, exige esforço e sacrifício e requer tempo. Por isso os que sofrem de peso em excesso sentem-se atraídos e seduzidos por dietas novas prometendo um êxito rápido e isento de sacrifícios.
 

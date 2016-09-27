@@ -4,9 +4,9 @@ title: Fibra vegetal
 permalink: /outros-tratamentos/fibra-vegetal.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A fibra vegetal, também conhecida como fibra dietética e fibra alimentar, é aquela parte dos vegetais que não pode ser atacada pelas enzimas digestivas humanas (as enzimas são substâncias que intervêm no metabolismo celular).
+## A fibra vegetal, também conhecida como fibra dietética e fibra alimentar, é aquela parte dos vegetais que não pode ser atacada pelas enzimas digestivas humanas (as enzimas são substâncias que intervêm no metabolismo celular).
 
 É constituída por uma série de substâncias de diferente composição, como celulose, hemicelulose, pectinas e lenhina. Esta fibra encontra-se na cobertura de alguns cereais e legumes, assim como em algumas verduras e frutas.
 
